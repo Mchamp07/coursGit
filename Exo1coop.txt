@@ -1,5 +1,33 @@
 //Test ajout d'un nouveau fichier
-//<!doctype HTML>
-<html>
+<!DOCTYPE HTML>
 
-<\html>
+<html>
+<head>
+<meta charset="UTF8" />
+<title> Les formulaires </title>
+</head>
+<body> 
+   
+   <h1> L'élément "select" </h1>
+
+   <h2> Il faut rajouter le champ option pour chaque item de la liste </h2>
+    <form method="GET" action="">
+     <select name="menu">
+         <option value="Pomme"> Pomme </option>
+         <option value="Poire"> Poire </option>
+         <option value="Fraise"> Fraise </option>
+    </select>
+    </form>
+
+    <h2> On peut préciser le nombre d'items visibles par défaut avec le champ size</h2>
+   <form method="GET" action="">
+    <select name="menu" size=3>
+        <option value="Pomme"> Pomme </option>
+        <option value="Poire"> Poire </option>
+        <option value="Fraise"> Fraise </option>
+    </select>
+   </form>
+  
+</body>
+
+</html>
