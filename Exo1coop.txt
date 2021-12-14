@@ -1,1 +1,5 @@
 //Test ajout d'un nouveau fichier
+//<!doctype HTML>
+<html>
+
+<\html>
