@@ -1,1 +1,2 @@
-Exercice GitHub
+Exercice GitHub: 
+Utilité de faire un dépot git pour un projet solo ? 
